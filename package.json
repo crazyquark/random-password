@@ -1,0 +1,26 @@
+{
+  "name": "random-password",
+  "version": "1.0.0",
+  "description": "A simple random password generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyquark/random-password.git"
+  },
+  "keywords": [
+    "random",
+    "password"
+  ],
+  "author": "crazyquark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crazyquark/random-password/issues"
+  },
+  "homepage": "https://github.com/crazyquark/random-password#readme"
+}
